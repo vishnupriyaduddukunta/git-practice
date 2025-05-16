@@ -1,2 +1,3 @@
 Adding another line.
 Adding another line.
+This is a new feature.
